@@ -11,7 +11,7 @@ The dhasboard utilizes NutritionX's food API to query the nutritional informatio
 # Design
 Originally, the Power BI was intended to utilize the REST API directly within the report to minimize the need of a third party. However, as of September 2024, Power BI does not currently support the historical storing of API results. As such, the data needs to be stored and the API called elsewhere. 
 
-## Google Collab Code
+# Google Collab Code
 Within this repository is the Python code being utilized in Google Collab. If you wish to use this code for your own report, you must retreieve your own API key and ID from NutritionX. Up to two keys/IDs can be obtained and used for free.
 
 [Link to signup](https://www.nutritionix.com/business/api)
