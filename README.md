@@ -1,5 +1,10 @@
 # NutriTrack Dashboard - Screenshot
-<img width="959" alt="Dashboard" src="https://github.com/user-attachments/assets/c47b904d-c2e0-4fa1-bc7d-982f2abf5b95">
+<img width="1025" alt="image" src="https://github.com/user-attachments/assets/1839ddec-8a26-48f9-8266-9d606de62bbb">
+
+## With Specific Food Selected
+
+<img width="1009" alt="image" src="https://github.com/user-attachments/assets/ac6ce3c0-8d67-4db5-927e-34adab43c70c">
+
 
 
 # Purpose
