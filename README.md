@@ -1,9 +1,11 @@
 # NutriTrack Dashboard - Screenshot
-<img width="1025" alt="image" src="https://github.com/user-attachments/assets/1839ddec-8a26-48f9-8266-9d606de62bbb">
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/ee3cf424-a32b-4316-a1d5-af7b630d8181">
+
 
 ## With Specific Food Selected
 
-<img width="1009" alt="image" src="https://github.com/user-attachments/assets/ac6ce3c0-8d67-4db5-927e-34adab43c70c">
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/35401db6-c6e3-41cd-877a-79d583c1b48e">
+
 
 
 
