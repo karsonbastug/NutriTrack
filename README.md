@@ -9,6 +9,7 @@
 
 
 
+
 # Purpose
 The purpose of this project was to create a simplified way to keep track of your diet intake. By minimizing the input needed as a user, it encourages more frequent tracking of foods consumed, promoting your health.
 
